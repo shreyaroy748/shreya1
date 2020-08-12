@@ -1,0 +1,113 @@
+body{
+  font-family: font-family: 'Merriweather', serif;
+
+}
+#title{
+  background-color: #d54062!important;
+  color: #ffffff;
+}
+h1{
+  font-weight: 700;
+  font-size: 3px;
+  line-height: 1.2;
+
+}
+ .container{
+  padding: 1.5% 0%;
+ }
+.download-button{
+  margin: 7% 5% 7% 0;
+
+}
+.pic{
+  width: 50%;
+  transform: rotate(20deg);
+  padding: 1.5px 0;
+  border-radius: 40px !important;
+}
+.enter{
+  margin-top:70px;
+  margin-left:30px;
+}
+.enter-light{
+  margin-top: 50px;
+}
+/* nav */
+.navbar{
+  padding: 0 0 5px 0;
+}
+
+.nav-item{
+  padding:0 10px;
+}
+.navbar-brand{
+  font-size:30px !important;
+  font-family: 'Courgette', cursive
+}
+.nav-link{
+  font-size: 20px;
+}
+/* features */
+#features{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+.long{
+  color:#d54062;
+  padding: 7%;
+}
+.long:hover{
+  color: #ff4c68;
+}
+/* 4th */
+
+.carousel-item{
+  text-align: center;
+  padding: 5px;
+  font-size: 25px;
+  padding-top: 50px;
+}
+.d-block{
+  margin: auto;
+  display: table;
+  border-radius: 75px;
+  height:150px;
+  width: 150px;
+}
+ .carousel{
+  background-color: #e97171;
+  padding-bottom: 120px;
+}
+.dogg{
+  color: #ffffff;
+}
+#roy{
+  background-color:#e97171;
+  text-align: center;
+  padding-bottom: 20px;
+
+}
+.and{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+#ONE{
+  text-align: center;
+  /* padding-top: 50px; */
+  padding: 100px;
+}
+.one-column {
+  margin-top: 30px;
+}
+.phn{
+  color: #b2ebf2;
+}
+.FOUE{
+background-color: #e97171;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+}
